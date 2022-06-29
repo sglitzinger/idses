@@ -1,0 +1,2 @@
+taskset,deadline,max. chip size,actual chip size,#big,#little,energy_consumption,objective function value
+sde,4.836309523809525,91.2,41.8,2.0,1.0,18.309093440476193,18.309093440476193

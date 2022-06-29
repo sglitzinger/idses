@@ -1,0 +1,10 @@
+id,workload,min_width,max_width,tasktype
+0,0.9,1,1,ReadFrames
+1,23.91,1,1,MB_Encode
+2,26.75,1,1,MB_Decode
+3,29.08,1,1,MotionEstimation
+4,7.49,1,1,FillBlock
+5,4.0,1,1,Reconstruct
+6,2.18,1,1,InputFrame
+7,6.59,1,1,VLC
+8,1.0,1,1,WriteFrames

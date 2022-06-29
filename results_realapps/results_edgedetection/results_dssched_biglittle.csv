@@ -1,0 +1,2 @@
+taskset,deadline,max. chip size,actual chip size,#big,#little,energy_consumption,objective function value
+edgedetection,27.33630952380953,91.2,45.6,2.0,2.0,122.41267904514984,122.41267904514984

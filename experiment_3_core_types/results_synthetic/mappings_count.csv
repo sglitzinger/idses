@@ -1,0 +1,6 @@
+task type,# mapped to big,# mapped to LITTLE,# mapped to A72
+MEMORY,128,142,22
+BRANCH,0,264,36
+FMULT,17,0,259
+SIMD,3,0,282
+MATMUL,0,4,343

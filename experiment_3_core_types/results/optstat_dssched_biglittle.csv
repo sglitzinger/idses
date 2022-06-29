@@ -1,0 +1,4 @@
+taskset,optimization status,MIPGap
+edgedetection,2,0.0
+h263encodenocyc,2,0.0
+sde,2,0.0
